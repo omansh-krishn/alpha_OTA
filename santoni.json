@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Omansh Krishn",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Redmi 4X",
+			"filename": "AlphaDroid-13.0",
+			"download": "idk",
+			"timestamp": 1696969698,
+			"md5": "abcd",
+			"sha256": "abcdefg",
+			"size": 1696969696,
+			"version": "1.7.9",
+			"buildtype": "vanilla",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/omansh_krishn",
+			"dt": "https://gitlab.com/androidsantoni/device-tree",
+			"common-dt": "",
+			"kernel": "https://gitlab.com/androidsantoni/kernel"
+		}
+	]
+}
