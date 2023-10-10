@@ -17,3 +17,49 @@ Device maintainer: Cr1st1anlp
 - Add dolby atmos
 - Leica camera
 - Other minor improvements
+
+====================
+     29-08-2023
+====================
+- Fixed Tiktok crashed
+- Fixed Grey color in Netflix Dolby Vision
+- Update KSU
+- Sync latest source changes
+- Added high touch polling rate toggle
+- Build Blaze kernel by Paul
+- Added Dirac logo
+- Other minor improvements
+
+====================
+     01-09-2023
+====================
+- Fixed Google restore
+- Fixed installing apps from a third party provide
+- Added support  DC DImming
+- Change to kernel Blaze 210
+- Fixed some hdr problems on youtube
+
+====================
+     07-09-2023
+====================
+- Fixed crash some games ( arena breakout etc. )
+- Build with lasted Blaze kernel thanks to Paul Piro dev
+- Enable Multi-gen LRU
+- Enable suspended ram for idle drain
+- Enable spatializer effect for wired headset
+- Added gallery global for spanish
+- Added gallery editor
+- Update leica to versión 5
+- Added suport Kprofiles
+- Others improvements under the hood
+
+====================
+     09-09-2023
+====================
+- Fixed disabling speakerphone during call
+- Fixed Fixed sound when connecting bluetooth headphones
+- Added enabled search in settings
+- Added quick tap 
+- Sound improvements
+- Others improvements under the hood
+

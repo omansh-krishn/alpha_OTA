@@ -4,6 +4,33 @@ Device: Xiaomi Mi 11
 Device maintainer: KamiKaonashi
 
 ====================
+     07-10-2023
+====================
+
+add Viper4FX
+device tree cleanup
+kernel optimizations
+
+====================
+     28-08-2023
+====================
+
+HOTFIX BUILD
+fix VoWifi
+fix DT2W
+drop Touchfeature
+update KernelSU
+introduce vanilla build
+
+====================
+     26-08-2023
+====================
+
+fix wonky automatic brightness
+switch to latest AOSP clang
+switch to cortex-a76 variant
+
+====================
      20-07-2023
 ====================
 

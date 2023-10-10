@@ -4,6 +4,35 @@ Device: Xiaomi MI 9T
 Device maintainer: t.me/hopethislasts
 
 ====================
+     09-Oct-2023
+====================
+* Alphadroid 1.10 Update
+* Upstreamed Kernel to 4.14.326
+* Drop F2FS compression 
+* Update dt from Arian's trees except for dynamic partitions.
+* Enable Fast charge control / Charge rate control from source
+* Build missing libvndfwk_detect_jni.qti and symlink it
+* Add touch improvement sysprops
+* Add radio props to improve battery life
+
+====================
+     04-Sep-2023
+====================
+* Alphadroid 1.8 Update 2
+* Upstreamed Kernel to 4.14.315
+* Fixes from source for apk installation issue and Qucikswitch issue
+* Affine msm_drm & kgsl
+
+====================
+     27-Aug-2023
+====================
+* AlphaDroid 1.8 Update
+* Upstreamed kernel to 4.14.323
+* Added back latest KernelSU
+* Revise and revert props as potential fix for lag
+* Set Carrier text padding on keyguard
+
+====================
      04-Aug-2023
 ====================
 * Alphadroid 1.7.9 Update

@@ -1,0 +1,52 @@
+{
+        "response": [
+                {
+                        "maintainer": "F1a5H",
+                        "oem": "Google",
+                        "device": "Pixel 4a",
+                        "filename": "AlphaDroid-13.0-20230917-sunfish-vanilla-v1.9.zip",
+                        "download": "https://sourceforge.net/projects/alphadroid-project/files/sunfish/AlphaDroid-13.0-20230917-sunfish-vanilla-v1.9.zip/download",
+                        "timestamp": 1694952927,
+                        "md5": "f6f29a719b7b9c0cdd4daa423329a722",
+                        "sha256": "2366f5dd6659b296ccc0a6fef5086382e16997026ef3dbac0ceceeca494d65f8",
+                        "size": 1088335210,
+                        "version": "1.9",
+                        "buildtype": "vanilla",
+                        "forum": "https://t.me/alphadroid_chat",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/brickjungle",
+                        "telegram": "https://t.me/F1a5H",
+                        "dt": "https://github.com/AlphaDroid-devices/device_google_sunfish",
+                        "common-dt": "",
+                        "kernel": "https://github.com/AlphaDroid-devices/kernel_google_sunfish"
+                },
+                {
+                        "maintainer": "F1a5H",
+                        "oem": "Google",
+                        "device": "Pixel 4a",
+                        "filename": "AlphaDroid-13.0-20230925-sunfish-gapps-v1.9.zip",
+                        "download": "https://sourceforge.net/projects/alphadroid-project/files/sunfish/AlphaDroid-13.0-20230925-sunfish-gapps-v1.9.zip/download",
+                        "timestamp": 1695619119,
+                        "md5": "091d92f302c505af53cc1beac943128b",
+                        "sha256": "a44c684412d82983aa4b98a1301b3ddda9ef500fab89e50f80871ad389c9d09f",
+                        "size": 1552154945,
+                        "version": "1.9",
+                        "buildtype": "gapps",
+                        "forum": "https://t.me/alphadroid_chat",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/brickjungle",
+                        "telegram": "https://t.me/F1a5H",
+                        "dt": "https://github.com/AlphaDroid-devices/device_google_sunfish",
+                        "common-dt": "",
+                        "kernel": "https://github.com/AlphaDroid-devices/kernel_google_sunfish"
+                }
+        ]
+}
